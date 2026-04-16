@@ -1,3 +1,12 @@
 body {
-  background-color: rgb(30, 30,30)
+  background-color: rgb(90, 110,100)
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border: 3px solid rgb(11, 11, 20);
+    border-radius: 15px;
+    background-color: rgb(234, 161, 4);
 }
